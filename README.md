@@ -1,10 +1,14 @@
-# QAP 4 Files AB  | For Project due July 25th, 2024
+# QAP 4 Files AB  | For Project due July 26th, 2024
 
 Thank you for visiting this repository!
 
-Within it, you will currently fine 
+Within it, you will currently find 
 1-The Python Program for QAP4 (One Stop Insurance Company)
 2-The Associated Data files
+3-The Javascript object project files (JS,HTML,CSS)
+
+
+|Python Program Notes|
 
 |One Stop Insurance Company|
 
